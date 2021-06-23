@@ -1,0 +1,10 @@
+C:\ProjetosC#\calculadora_basica\calculadora_basica\obj\Debug\calculadora_basica.csprojAssemblyReference.cache
+C:\ProjetosC#\calculadora_basica\calculadora_basica\obj\Debug\calculadora_basica.Form1.resources
+C:\ProjetosC#\calculadora_basica\calculadora_basica\obj\Debug\calculadora_basica.Properties.Resources.resources
+C:\ProjetosC#\calculadora_basica\calculadora_basica\obj\Debug\calculadora_basica.csproj.GenerateResource.cache
+C:\ProjetosC#\calculadora_basica\calculadora_basica\obj\Debug\calculadora_basica.csproj.CoreCompileInputs.cache
+C:\ProjetosC#\calculadora_basica\calculadora_basica\bin\Debug\calculadora_basica.exe.config
+C:\ProjetosC#\calculadora_basica\calculadora_basica\bin\Debug\calculadora_basica.exe
+C:\ProjetosC#\calculadora_basica\calculadora_basica\bin\Debug\calculadora_basica.pdb
+C:\ProjetosC#\calculadora_basica\calculadora_basica\obj\Debug\calculadora_basica.exe
+C:\ProjetosC#\calculadora_basica\calculadora_basica\obj\Debug\calculadora_basica.pdb
